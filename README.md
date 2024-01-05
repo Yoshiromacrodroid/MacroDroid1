@@ -11,5 +11,5 @@ para poder utilizar la macro correcta mente tienes que instalar marco droid [aqu
 ya teniendo instalado macro droid entra a este enlace [aqui](https://www.macrodroidlink.com/macrostore?id=19701)
 
 
-licencia apache [aqui](https://github.com/Yoshiromacrodroid/Macrodroid?tab=readme-ov-file#)
+licencia apache [aqui](LICENSE)
 si te gusta esta macro no olvides dejar tu ⭐ 
